@@ -1,12 +1,14 @@
 # MS-HS Fusion with Spectrally Varying Blurs : Study Case with SOTA methods
 
-## 1. Download data
+## 1. Download data and libraries
 
 Data can be downloaded here :
 
 https://filesender.renater.fr/?s=download&token=bdeb8c0d-3b7e-422b-876b-df8ef47e90e4
 
 and the files need to be placed in a "data" folder.
+
+Multiple libraries are required for this project, and among them is aljabr, which can be found here : https://github.com/forieux/aljabr
 
 
 ## 2. Change paths
