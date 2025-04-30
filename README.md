@@ -28,6 +28,8 @@ Three methods are implemented here :
 The expected outputs with these methods have already been saved in the "output" folder.
 
 
+## References
+
 [1] C. Guilloteau, T. Oberlin, O. Berné and N. Dobigeon, "Hyperspectral and Multispectral Image Fusion Under Spectrally Varying Spatial Blurs – Application to High Dimensional Infrared Astronomical Imaging," in IEEE Transactions on Computational Imaging, vol. 6, pp. 1362-1374, 2020, doi: 10.1109/TCI.2020.3022825.
 
 [2] D. Pineau, F. Orieux and A. Abergel, "Exact Solution for Multispectral and Hyperspectral Fusion Via Hessian Inversion," 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), Athens, Greece, 2023, pp. 1-5, doi: 10.1109/WHISPERS61460.2023.10431252, 
