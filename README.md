@@ -3,13 +3,13 @@
 Steps to run the fusion :
 
 
-## 1. Dowload data
+## 1. Download data
 
 Data can be downloaded here :
 
 https://filesender.renater.fr/?s=download&token=bdeb8c0d-3b7e-422b-876b-df8ef47e90e4
 
-and place the files in a "data" folder.
+and the files need to be placed in a "data" folder.
 
 
 ## 2. Change paths
@@ -28,7 +28,7 @@ Three methods are implemented here :
 - l2 regularization with explicit minimization [2]
 - l2/l1 with Majorize-Minimize algorithm [3]
 
-The expected outputs with these methods have been saved in the "output" folder.
+The expected outputs with these methods have already been saved in the "output" folder.
 
 
 [1] C. Guilloteau, T. Oberlin, O. Berné and N. Dobigeon, "Hyperspectral and Multispectral Image Fusion Under Spectrally Varying Spatial Blurs – Application to High Dimensional Infrared Astronomical Imaging," in IEEE Transactions on Computational Imaging, vol. 6, pp. 1362-1374, 2020, doi: 10.1109/TCI.2020.3022825.
