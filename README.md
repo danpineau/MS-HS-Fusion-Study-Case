@@ -1,4 +1,4 @@
-# MS-HS Fusion : Study Case
+# MS-HS Fusion with Spectrally Varying Blurs : Study Case with SOTA methods
 
 ## 1. Download data
 
