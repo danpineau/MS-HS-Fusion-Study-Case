@@ -35,4 +35,6 @@ The expected outputs with these methods have been saved in the "output" folder.
 
 [2] D. Pineau, F. Orieux and A. Abergel, "Exact Solution for Multispectral and Hyperspectral Fusion Via Hessian Inversion," 2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS), Athens, Greece, 2023, pp. 1-5, doi: 10.1109/WHISPERS61460.2023.10431252, 
 
-[3] D. Pineau, F. Orieux and A. Abergel, "Multispectral and Hyperspectral Image Fusion with Spectrally Varying Blurs and Majorize-Minimize Algorithm," in IEEE Transactions on Computational Imaging, 2025
+[3] D. Pineau, F. Orieux and A. Abergel, "Multispectral and Hyperspectral Image Fusion with Spectrally Varying Blurs and MM Algorithm," in IEEE Transactions on Computational Imaging, doi: 10.1109/TCI.2025.3565138.
+
+
