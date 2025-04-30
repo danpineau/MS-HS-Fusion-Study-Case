@@ -1,8 +1,5 @@
 # MS-HS Fusion : Study Case
 
-Steps to run the fusion :
-
-
 ## 1. Download data
 
 Data can be downloaded here :
