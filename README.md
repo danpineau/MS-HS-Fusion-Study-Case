@@ -27,6 +27,9 @@ Three methods are implemented here :
 
 The expected outputs with these methods have already been saved in the "output" folder.
 
+## Contact
+
+For any issues regarding the implementation, contact me at dan.pineau@uni.lu
 
 ## References
 
